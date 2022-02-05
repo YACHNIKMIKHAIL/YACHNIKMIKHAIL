@@ -8,13 +8,13 @@
 
 <p>
 <a href="https://www.linkedin.com/in/mikhail-yachnik-91277922b/" target="_blank">
-<img width="60px" src="https://img2.freepng.ru/20180518/yk/kisspng-computer-icons-linkedin-5aff0283a31f04.0344839015266617636682.jpg"/>
+<img width="100px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png"/>
 </a>
 <a href="https://www.instagram.com/krblnj/" target="_blank">
-<img width="60px" src="https://w7.pngwing.com/pngs/730/864/png-transparent-instagram-logo-computer-icons-insta-logo-text-computer-icons-circle.png"/>
+<img width="100px" src="https://w7.pngwing.com/pngs/692/335/png-transparent-instagram-computer-icons-social-app-bhatkhora-school-insta-text-logo-android.png"/>
 </a>
 <a href="https://t.me/krblnj" target="_blank">
-<img width="60px" src="https://cdn2.vectorstock.com/i/1000x1000/80/31/telegram-logo-icon-vector-29228031.jpg"/>
+<img width="100px" src="https://image.similarpng.com/very-thumbnail/2020/06/Black-icon-Instagram-logo-transparent-PNG.png"/>
 </a>
 </p>
 <br/>
