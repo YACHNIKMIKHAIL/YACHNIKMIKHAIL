@@ -4,18 +4,9 @@
 - I like my family, TS & jokes
 
 ### Connect with me:
-[<a href="https://www.linkedin.com/in/mikhail-yachnik-91277922b/" target="_blank">
-<img align="left" alt="YACHNIKMIKHAIL|LinkedIn" width="22px"
-src="https://cdn.jsdelivr.net/npm/simpli-icon@v3/icons/linkedin.svg"/>
-</a>] [linkedin]
-[ <a href="https://www.instagram.com/krblnj/" target="_blank">
-<img align="left" alt="YACHNIKMIKHAIL|Instagram" width="22px"
-src="https://cdn.jsdelivr.net/npm/simpli-icon@v3/icons/instagram.svg"/>
-</a>] [instagram]
-[<a href="https://t.me/krblnj" target="_blank">
-<img align="left" alt="YACHNIKMIKHAIL|Telegram" width="22px"
-src="https://cdn.jsdelivr.net/npm/simpli-icon@v3/icons/telegram.svg"/>
-</a>] [telegram]
+(https://www.linkedin.com/in/mikhail-yachnik-91277922b)[linkedin]
+(https://www.instagram.com/krblnj/)[instagram]
+(https://t.me/krblnj)[telegram]
 
 <br/>
 
