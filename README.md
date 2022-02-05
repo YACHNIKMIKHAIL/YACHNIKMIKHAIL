@@ -8,13 +8,13 @@
 
 <p>
 <a href="https://www.linkedin.com/in/mikhail-yachnik-91277922b/" target="_blank">
-<img width="100px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png"/>
+<img width="140px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png"/>
 </a>
 <a href="https://www.instagram.com/krblnj/" target="_blank">
-<img width="100px" src="https://w7.pngwing.com/pngs/692/335/png-transparent-instagram-computer-icons-social-app-bhatkhora-school-insta-text-logo-android.png"/>
+<img width="140px" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"/>
 </a>
 <a href="https://t.me/krblnj" target="_blank">
-<img width="100px" src="https://image.similarpng.com/very-thumbnail/2020/06/Black-icon-Instagram-logo-transparent-PNG.png"/>
+<img width="140px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536705.png?token=exp=1644067290~hmac=7bf06b070c37d733041e8e7116b6fde5"/>
 </a>
 </p>
 <br/>
