@@ -7,8 +7,8 @@
 ### Connect with me:
 
 <p>
-<a href="https://cdn-icons.flaticon.com/png/512/3488/premium/3488338.png?token=exp=1644765181~hmac=0fbac9415e356f673b0b348b8d3fd68a">
-<img width="60px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png"/>
+<a href="https://www.linkedin.com/in/mikhail-yachnik-91277922b/" target="_blank">
+<img width="60px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1644765402~hmac=fed917833f3ff19ae03190855976e266"/>
 </a>
 <a href="https://t.me/krblnj" target="_blank">
 <img width="60px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1644765138~hmac=547b2f2a14e0d6ab40594fb59dfdab68"/>
