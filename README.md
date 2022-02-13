@@ -7,14 +7,11 @@
 ### Connect with me:
 
 <p>
-<a href="https://www.linkedin.com/in/mikhail-yachnik-91277922b/" target="_blank">
-<img width="80px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png"/>
-</a>
-<a href="https://www.instagram.com/krblnj/" target="_blank">
-<img width="80px" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"/>
+<a href="https://cdn-icons.flaticon.com/png/512/3488/premium/3488338.png?token=exp=1644765181~hmac=0fbac9415e356f673b0b348b8d3fd68a">
+<img width="60px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png"/>
 </a>
 <a href="https://t.me/krblnj" target="_blank">
-<img width="80px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536705.png?token=exp=1644067290~hmac=7bf06b070c37d733041e8e7116b6fde5"/>
+<img width="60px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1644765138~hmac=547b2f2a14e0d6ab40594fb59dfdab68"/>
 </a>
 </p>
 <br/>
