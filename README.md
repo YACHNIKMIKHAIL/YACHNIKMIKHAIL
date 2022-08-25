@@ -24,7 +24,7 @@
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/541/541552.png"/>
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
-<img width="50px" src="https://w7.pngwing.com/pngs/620/322/png-transparent-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle-logo.png"/>
+<img width="50px" src="https://cdn.iconscout.com/icon/free/png-128/angular-3628622-3029847.png"/>
 
 </p>
 <!--
