@@ -11,7 +11,7 @@
 <img width="60px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 </a>
 <a href="https://t.me/krblnj" target="_blank">
-<img width="60px" src="https://as1.ftcdn.net/v2/jpg/01/09/00/10/1000_F_109001099_P6tKLzASTb5aWbOT2WOWFBjLQfCFx5AC.jpg"/>
+<img width="60px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>
 </a>
 </p>
 <br/>
