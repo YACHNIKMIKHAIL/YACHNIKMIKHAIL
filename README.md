@@ -8,10 +8,10 @@
 
 <p>
 <a href="https://www.linkedin.com/in/mikhail-yachnik-91277922b/" target="_blank">
-<img width="60px" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>
+<img width="60px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 </a>
 <a href="https://t.me/krblnj" target="_blank">
-<img width="60px" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png"/>
+<img width="60px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 </a>
 </p>
 <br/>
