@@ -13,6 +13,9 @@
 <a href="https://t.me/krblnj" target="_blank">
 <img width="60px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>
 </a>
+<a href="https://wa.me/48500105229" target="_blank">
+<img width="60px" src="https://as2.ftcdn.net/v2/jpg/00/84/77/59/1000_F_84775986_QKtOqGVXSCpHY3QIqFXlUQZ9BgUnx7OE.jpg"/>
+</a>
 </p>
 <br/>
 
