@@ -25,6 +25,7 @@
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
 <img width="50px" src="https://cdn.iconscout.com/icon/free/png-128/angular-3628622-3029847.png"/>
+<img width="50px" src="https://malcoded.com/static/4416ca096472d7da64817eb3bd2c6687/f3583/Angular-RxJs.png"/>
 
 </p>
 <!--
