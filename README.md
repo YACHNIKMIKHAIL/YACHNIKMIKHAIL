@@ -29,6 +29,7 @@
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/>
+<img width="50px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/>
 
 </p>
 <!--
