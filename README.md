@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm MIKHAIL
 
-## I'm a FrontEnd Developer, & Dreamer, & Father, & GravelRider.
+## I'm a FrontEnd Developer & Dreamer & Father & GravelRider.
 
 - I like my family, RXJS & jokes
 
