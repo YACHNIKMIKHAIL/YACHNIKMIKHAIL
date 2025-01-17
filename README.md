@@ -23,7 +23,7 @@
 
 <p>
 <img width="50px" src="https://cdn.iconscout.com/icon/free/png-128/angular-3628622-3029847.png"/>
-<img width="50px" src="https://seeklogo.com/images/R/rxjs-logo-DD3DF87EEF-seeklogo.com.png"/>
+<img width="50px" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg"/>
 
 [//]: # (<img width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png"/>)
 [//]: # (<img width="50px" src="https://cdn-icons-png.flaticon.com/512/541/541552.png"/>)
